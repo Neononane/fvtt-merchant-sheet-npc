@@ -1,8 +1,8 @@
 {
 	"name": "merchantsheetnpc",
 	"title": "Merchant Sheet NPC",
-	"description": "This module adds an additional NPC sheet which can be used for shopkeepers.",
-	"version": "2.9.1",
+	"description": "This module adds an additional NPC sheet which can be used for shopkeepers. Adjusted by Ryan Tully (Neononane)",
+	"version": "0.9.1",
 	"minimumCoreVersion": "10",
 	"compatibleCoreVersion": "10",
 	"author": "Lars Nørregaard (Whelan)",
@@ -38,7 +38,7 @@
 		"merchantsheetnpc.css"
 	],
 	"socket": true,
-	"url": "https://github.com/whelan/fvtt-merchant-sheet-npc",
-	"manifest": "https://raw.githubusercontent.com/whelan/fvtt-merchant-sheet-npc/2.9.1/Source/module.json",
-	"download": "https://github.com/whelan/fvtt-merchant-sheet-npc/releases/download/2.9.1/module.zip"
+	"url": "https://github.com/neononane/fvtt-merchant-sheet-npc",
+	"manifest": "https://raw.githubusercontent.com/neononane/fvtt-merchant-sheet-npc/2.9.1/Source/module.json",
+	"download": "https://github.com/neononane/fvtt-merchant-sheet-npc/releases/download/2.9.1/module.zip"
 }
