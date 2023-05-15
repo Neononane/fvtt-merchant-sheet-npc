@@ -39,6 +39,6 @@
 	],
 	"socket": true,
 	"url": "https://github.com/neononane/fvtt-merchant-sheet-npc",
-	"manifest": "https://raw.githubusercontent.com/neononane/fvtt-merchant-sheet-npc/2.9.1/Source/module.json",
-	"download": "https://github.com/neononane/fvtt-merchant-sheet-npc/releases/download/2.9.1/module.zip"
+	"manifest": "https://raw.githubusercontent.com/Neononane/fvtt-merchant-sheet-npc/main/Source/module.json",
+	"download": "https://github.com/Neononane/fvtt-merchant-sheet-npc/archive/refs/tags/beta3.zip"
 }
