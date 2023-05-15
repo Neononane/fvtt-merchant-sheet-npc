@@ -1,3 +1,4 @@
+{
 	"name": "merchantsheetnpc",
 	"title": "Merchant Sheet NPC",
 	"description": "This module adds an additional NPC sheet which can be used for shopkeepers.",
@@ -11,3 +12,4 @@
 	"url": "https://github.com/Neononane/fvtt-merchant-sheet-npc",
 	"manifest": "https://raw.githubusercontent.com/Neononane/fvtt-merchant-sheet-npc/main/Source/module.json",
 	"download": "https://github.com/Neononane/fvtt-merchant-sheet-npc/archive/refs/tags/beta3.zip"
+}
